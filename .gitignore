@@ -1,0 +1,20 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/static/uploads/*
+!backend/static/uploads/.gitkeep
+
+# PDF and test files
+*.pdf
+*.docx
+generate_jd.py
+
+# System details
+.DS_Store
+Thumbs.db
