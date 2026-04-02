@@ -215,6 +215,6 @@ MIT License - See [LICENSE](./LICENSE) for details
 
 ## 👥 Team
 
-- Yash vardhan Singh Parmar - ML/NLP Implementation
+- [Yash Vardhan Singh Parmar] - ML/NLP Implementation
 - [Kunal Waldia] - Backend Development
 - [Divyansh Dhaundiyal] - Frontend Development & UI/UX
